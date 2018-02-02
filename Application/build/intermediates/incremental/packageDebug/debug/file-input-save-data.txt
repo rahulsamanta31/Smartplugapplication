@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Feb 02 19:22:00 IST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\Smart Plud Add on\\EFY\\NewApplication\\Smartplugapplication\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
